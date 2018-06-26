@@ -1,0 +1,2 @@
+autoprefixer-cli -o style.prefixed.css output.css
+cli --skip-non-html learning-git-2/
