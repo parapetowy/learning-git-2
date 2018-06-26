@@ -14,6 +14,11 @@ h1 {
   font-family: 'Junge', serif;
   font-size: 1.6em; }
 
+h2 {
+  color: #BE3100;
+  font-family: 'Junge', serif;
+  font-size: 0.5em; }
+
 .zw {
   margin: 50px;
   color: #6F0B00;
