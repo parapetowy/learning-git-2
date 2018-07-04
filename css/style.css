@@ -1,29 +1,45 @@
 @import url("https://fonts.googleapis.com/css?family=Junge");
 @import url("https://fonts.googleapis.com/css?family=Lato");
 body {
-  background-color: #C9B849; }
+  background-color: #C9B849;
+}
 
 div {
-  text-align: center; }
+  text-align: center;
+}
 
 .piosenka {
-  padding: 25px; }
+  padding: 25px;
+}
 
 h1 {
   color: #BE3100;
   font-family: 'Junge', serif;
-  font-size: 2em; }
+  font-size: 2em;
+}
 
 h2 {
   color: #BE3100;
   font-family: 'Junge', serif;
-  font-size: 0.5em; }
+  font-size: 0.7em;
+}
 
 .zw {
   margin: 50px;
   color: #6F0B00;
   font-family: 'Lato', sans-serif;
   line-height: 5px;
-  font-size: 1em; }
+  font-size: 1em;
+}
 
-/*# sourceMappingURL=output.css.map */
+.test {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.test2 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/*# sourceMappingURL=style.css.map */
