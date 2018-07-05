@@ -32,4 +32,8 @@ h2 {
   font-size: 1em;
 }
 
+.test {
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=style.css.map */
