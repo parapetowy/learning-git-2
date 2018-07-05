@@ -21,7 +21,7 @@ h1 {
 h2 {
   color: #BE3100;
   font-family: 'Junge', serif;
-  font-size: 0.7em;
+  font-size: 1em;
 }
 
 .zw {
@@ -30,19 +30,5 @@ h2 {
   font-family: 'Lato', sans-serif;
   line-height: 5px;
   font-size: 1em;
-}
-
-.test {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-}
-
-.test2 {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
 }
 /*# sourceMappingURL=style.prefixed.css.map */
